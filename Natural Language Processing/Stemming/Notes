@@ -1,0 +1,7 @@
+# Stemming: 
+Stemming is the process of reducing a word to its word stem that affixes to suffixes and prefixes or to the roots of words known as a lemma.
+Stemming is important in natural language understanding (NLU) and natural language processing.
+
+## Classifiaction Problem
+## comments of product is a positive review or negative review
+## Reviews ----> eating, eat, eaten  [going,gone,goes]---> go
